@@ -51,7 +51,6 @@ I love participating in hackathons and building tools that make a difference, fr
 
 ### 📊 GitHub Stats
 
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skullybutcher&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skullybutcher&layout=compact&theme=radical)
 
 ---
